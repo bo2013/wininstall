@@ -1,0 +1,3 @@
+N: Vscode for testing
+D: https://vscode.download.prss.microsoft.com/dbazure/download/stable/0f0d87fa9e96c856c5212fc86db137ac0d783365/VSCodeUserSetup-x64-1.104.1.exe
+I: "$downloaded$" /VERYSILENT /NORESTART
