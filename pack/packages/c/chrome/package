@@ -1,3 +1,3 @@
-N:google chrome
-D:https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}/update2/installers/ChromeSetup.exe
-I:$downloaded$ /silent /install 
+N: Google Chrome
+D: https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D/update2/installers/ChromeSetup.exe
+I: "$downloaded$" /silent /install
