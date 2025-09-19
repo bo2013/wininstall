@@ -1,0 +1,3 @@
+N: Blender for testing
+D: https://mirror.freedif.org/blender/release/Blender4.5/blender-4.5.3-windows-x64.msi
+I: msiexec /i "$downloaded$" /qn /norestart
